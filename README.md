@@ -1,4 +1,4 @@
-# autoriza-o-para-entrar
+# controle de acesso
 Controlamos a requisição de entrada do usuário por bipe/digitação até a saída do mesmo.
 
 O código contém funções que detectam a letra que está sendo digitada/bipada e inclue no array,
