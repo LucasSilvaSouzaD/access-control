@@ -1,8 +1,8 @@
 const collaborators = [
-    {name: 'Lucas Silva', id: 'l1234', autorization: false, enter: false},
-    {name: 'Mateus Brilha', id: 'm1234', autorization: true, enter: false},
-    {name: 'Vianei AnaHickman', id: 'v1234', autorization: true, enter: false},
-    {name: 'Paulo Papa', id: 'p1234', autorization: false, enter: false},
+    {name: 'colaborador 1', id: 'l1234', autorization: false, enter: false},
+    {name: 'colaborador 2', id: 'm1234', autorization: true, enter: false},
+    {name: 'colaborador 3', id: 'v1234', autorization: true, enter: false},
+    {name: 'colaborador 4', id: 'p1234', autorization: false, enter: false},
 ];
 
 let keyPressArray = [];
