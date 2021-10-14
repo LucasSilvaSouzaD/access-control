@@ -7,3 +7,15 @@ e valida se o colaborador tem acesso para entrar na área com manipulação de o
 
 
 *Para o sistema funcionar o responsável precisa digitar ou bipar o codigo do colaborador para o sistema retornar a resposta*
+
+
+# Inglês
+
+# access control
+We control the user's input request by beeping/typing to the output of the user.
+
+The code contains functions that detect the letter being typed/paged and includes in the array,
+after receiving the full code and recognizing that the user used the enter key it turns the array into a string with the function (JOIN)
+and validates whether the employee has access to enter the area with object manipulation (filter and map) and controlling responses with ternary conditions.
+
+*For the system to function the person responsible needs to type or beep the code of the collaborator for the system to return the answer*
