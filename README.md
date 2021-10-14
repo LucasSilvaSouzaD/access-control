@@ -8,9 +8,6 @@ e valida se o colaborador tem acesso para entrar na área com manipulação de o
 
 *Para o sistema funcionar o responsável precisa digitar ou bipar o codigo do colaborador para o sistema retornar a resposta*
 
-
-# Inglês
-
 # access control
 We control the user's input request by beeping/typing to the output of the user.
 
