@@ -3,10 +3,12 @@ body {
     width: 100%;
     height: 100vh;
     background-color: #495b73e1;
+    
 }
 
 .success {
     color: #198754;
+    transform: scale(1.5);
 }
 
 .failed {
