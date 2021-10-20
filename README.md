@@ -1,18 +1,13 @@
 # controle de acesso
-Controlamos a requisição de entrada do usuário por bipe/digitação até a saída do mesmo.
+Sistema para controle de acesso, a partir de um objeto declarado no javascript que contém cada usuário e suas respectivas permissões.
 
-O código contém funções que detectam a letra que está sendo digitada/bipada e inclue no array,
-após receber o código completo e reconhecer que o usuário usou a tecla enter o mesmo transforma o array em uma string com a função (JOIN)
-e valida se o colaborador tem acesso para entrar na área com manipulação de objeto (filter e map) e controlando as respostas com condições ternárias.
+O código contém funções que detectam a letra que está sendo digitada/bipada e incluí no array, após receber o código completo e reconhecer que o usuário usou a tecla enter o mesmo transforma o array em uma string com a função (JOIN) e valida se o colaborador tem acesso para entrar na área com manipulação de objeto (Filter e Map) e controlando as respostas com condições ternárias.
 
-
-*Para o sistema funcionar o responsável precisa digitar ou bipar o codigo do colaborador para o sistema retornar a resposta*
+*Para o sistema funcionar o responsável precisa bipar ou digitar o código do colaborador para o sistema retornar a resposta *
 
 # access control
-We control the user's input request by beeping/typing to the output of the user.
+System for access control, from an object declared in javascript that contains each user and their specific location.
 
-The code contains functions that detect the letter being typed/paged and includes in the array,
-after receiving the full code and recognizing that the user used the enter key it turns the array into a string with the function (JOIN)
-and validates whether the employee has access to enter the area with object manipulation (filter and map) and controlling responses with ternary conditions.
+The code contains functions that detect the letter being typed / beep and include it in the array, after receiving the complete code and recognizing that the user except for the enter key, it transforms the array into a string with a function (JOIN) and validates if the employee has access to enter the area with object manipulation (Filter and Map) and controlling responses with ternary conditions.
 
-*For the system to function the person responsible needs to type or beep the code of the collaborator for the system to return the answer*
+* For the system to work, the responsible person needs to beep or enter the employee's code for the system to return the answer *
