@@ -3,6 +3,8 @@ const collaborators = [
     {name: 'colaborador 2', id: 'm1234', autorization: true, enter: false},
     {name: 'colaborador 3', id: 'v1234', autorization: true, enter: false},
     {name: 'colaborador 4', id: 'p1234', autorization: false, enter: false},
+    {name: 'colaborador 5', id: 'n1234', autorization: true, enter: false},
+    {name: 'colaborador 6', id: 's1234', autorization: true, enter: false},
 ];
 
 let keyPressArray = [];
