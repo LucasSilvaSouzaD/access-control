@@ -1,0 +1,35 @@
+{
+  "name": "access-control",
+  "version": "1.0.0",
+  "description": "Sistema para controle de acesso, a partir de um objeto declarado no javascript que contém cada usuário e suas respectivas permissões.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx mocha -w --parellel test/*.test.js",
+    "test:cov": "npx nyc npx mocha --parellel test/*.test.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasSilvaSouzaD/access-control.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasSilvaSouzaD/access-control/issues"
+  },
+  "homepage": "https://github.com/LucasSilvaSouzaD/access-control#readme",
+  "devDependencies": {
+    "jsdom": "19.0.0",
+    "jsdom-global": "3.0.2",
+    "mocha": "^9.2.2",
+    "nyc": "^15.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0",
+    "supertest": "^6.2.2"
+  }
+}
